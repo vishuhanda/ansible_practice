@@ -1,0 +1,6 @@
+[nodes]
+ansibleserver
+
+[all:vars]
+ansible_user=ansibleserver 
+ansible_ssh_pass=ansibleserver
